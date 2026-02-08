@@ -71,6 +71,14 @@ See `FEATURE_ROADMAP.md` for current priorities:
 - Reference feature names from FEATURE_ROADMAP.md when applicable
 - Test before committing to main branch
 
+## Brain Update Protocol
+When you say **"update your brain"**, the Copilot will:
+1. Update this `.github/copilot-instructions.md` file with any new information, project changes, or development guidelines you provide
+2. Commit the changes with a descriptive message
+3. Push the changes to the remote repository
+
+This keeps the instruction file in sync with the project's current state and ensures Copilot has the latest context for all future sessions.
+
 ## Questions & Support
 When uncertain about:
 - **Ursina API**: Reference the entity structure and built-in methods
