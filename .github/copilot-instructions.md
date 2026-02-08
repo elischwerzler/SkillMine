@@ -1,3 +1,9 @@
+---
+copilot: true
+auto-load: true
+scope: *
+---
+
 # Copilot Instructions for SkillMine
 
 ## My Name
